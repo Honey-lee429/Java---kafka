@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ecommerce (1)" />
+        <module name="ecommerce (13)" />
+        <module name="service-fraud-detector" />
+        <module name="service-email (1)" />
+        <module name="service-email" />
+        <module name="service-log" />
+        <module name="service-new-order (1)" />
+        <module name="common-kafka" />
+        <module name="ecommerce (10)" />
+        <module name="service-fraud-detector (1)" />
+        <module name="service-new-order" />
+        <module name="ecommerce (12)" />
+        <module name="service-log (1)" />
+        <module name="ecommerce (11)" />
+        <module name="ecommerce (8)" />
+        <module name="ecommerce (9)" />
+        <module name="common-kafka (1)" />
+        <module name="ecommerce (6)" />
+        <module name="ecommerce (7)" />
+        <module name="ecommerce (4)" />
+        <module name="ecommerce (5)" />
+        <module name="ecommerce (2)" />
+        <module name="ecommerce (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-kafka" target="12" />
+      <module name="common-kafka (1)" target="12" />
+      <module name="ecommerce" target="12" />
+      <module name="ecommerce (1)" target="12" />
+      <module name="ecommerce (10)" target="12" />
+      <module name="ecommerce (11)" target="12" />
+      <module name="ecommerce (12)" target="12" />
+      <module name="ecommerce (13)" target="12" />
+      <module name="ecommerce (14)" target="12" />
+      <module name="ecommerce (2)" target="12" />
+      <module name="ecommerce (3)" target="12" />
+      <module name="ecommerce (4)" target="12" />
+      <module name="ecommerce (5)" target="12" />
+      <module name="ecommerce (6)" target="12" />
+      <module name="ecommerce (7)" target="12" />
+      <module name="ecommerce (8)" target="12" />
+      <module name="ecommerce (9)" target="12" />
+      <module name="service-email" target="12" />
+      <module name="service-email (1)" target="12" />
+      <module name="service-fraud-detector" target="12" />
+      <module name="service-fraud-detector (1)" target="12" />
+      <module name="service-log" target="12" />
+      <module name="service-log (1)" target="12" />
+      <module name="service-new-order" target="12" />
+      <module name="service-new-order (1)" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
