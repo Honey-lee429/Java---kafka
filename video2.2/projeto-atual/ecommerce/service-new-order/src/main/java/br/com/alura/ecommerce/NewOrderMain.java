@@ -16,6 +16,8 @@ public class NewOrderMain {
                     var amount = new BigDecimal(Math.random() * 5000 + 1);
 
                     var order = new Order(orderId, amount, email);
+                    /*antes estavamos usando como key o userId para definir
+                    a ordem sequencial de compra para o mesmo user*/
                     orderDispatcher.send("ECOMMERCE_NEW_ORDER", email, order);
 
                     var emailCode = "Thank you for your order! We are processing your order!";

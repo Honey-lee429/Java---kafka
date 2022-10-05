@@ -1,9 +1,5 @@
 package br.com.alura.ecommerce;
 
-import org.eclipse.jetty.servlet.Source;
-
-import javax.servlet.Servlet;
-import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -29,11 +25,10 @@ public class NewOrderServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         try {
 
-            // we are not caring about any security issues, we are only
-            // showing how to use http as a starting point
-            var email = req.getParameter("email");
-            var amount = new BigDecimal(req.getParameter("amount"));
-
+            /* we are not caring about any security issues, we are only
+               showing how to use http as a starting point*/
+            var email = req.getParameter("email");//pega o email da requisição no path
+            var amount = new BigDecimal(req.getParameter("amount"));//pega o amount da requisição no path
             var orderId = UUID.randomUUID().toString();
 
             var order = new Order(orderId, amount, email);
@@ -42,7 +37,7 @@ public class NewOrderServlet extends HttpServlet {
             var emailCode = "Thank you for your order! We are processing your order!";
             emailDispatcher.send("ECOMMERCE_SEND_EMAIL", email, emailCode);
 
-            System.out.println("New order sent successfully.");
+            System.out.println("New order processing finished");
             resp.setStatus(HttpServletResponse.SC_OK);
             resp.getWriter().println("New order sent");
 
@@ -51,7 +46,7 @@ public class NewOrderServlet extends HttpServlet {
         } catch (InterruptedException e) {
             throw new ServletException(e);
         }
-
-
     }
+
+
 }

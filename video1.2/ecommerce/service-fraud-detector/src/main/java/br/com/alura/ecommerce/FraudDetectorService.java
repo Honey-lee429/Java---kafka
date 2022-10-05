@@ -10,6 +10,7 @@ public class FraudDetectorService {
 
     public static void main(String[] args) {
         var fraudService = new FraudDetectorService();
+        // RECEBE MENSAGEM
         try (var service = new KafkaService<>(FraudDetectorService.class.getSimpleName(),
                 "ECOMMERCE_NEW_ORDER",
                 fraudService::parse,
@@ -18,7 +19,7 @@ public class FraudDetectorService {
             service.run();
         }
     }
-
+    //ENVIA MENSAGEM
     private final KafkaDispatcher<Order> orderDispatcher = new KafkaDispatcher<>();
 
     private void parse(ConsumerRecord<String, Order> record) throws ExecutionException, InterruptedException {

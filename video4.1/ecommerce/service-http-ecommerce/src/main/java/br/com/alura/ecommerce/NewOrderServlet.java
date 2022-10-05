@@ -12,9 +12,12 @@ import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.UUID;
 import java.util.concurrent.ExecutionException;
-
+/*
+* como enviar mensagens a partir do servidor http
+* vantagem de um fast delegate
+* usar um servidor http embarcado
+* */
 public class NewOrderServlet extends HttpServlet {
-
     private final KafkaDispatcher<Order> orderDispatcher = new KafkaDispatcher<>();
     private final KafkaDispatcher<String> emailDispatcher = new KafkaDispatcher<>();
 
@@ -31,8 +34,8 @@ public class NewOrderServlet extends HttpServlet {
 
             // we are not caring about any security issues, we are only
             // showing how to use http as a starting point
-            var email = req.getParameter("email");
-            var amount = new BigDecimal(req.getParameter("amount"));
+            var email = req.getParameter("email");//pega o email da requisição no path
+            var amount = new BigDecimal(req.getParameter("amount"));//pega o amount da requisição no path
 
             var orderId = UUID.randomUUID().toString();
 

@@ -4,17 +4,62 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/common-kafka/common-kafka.iml" filepath="$PROJECT_DIR$/video0/ecommerce/common-kafka/common-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/common-kafka/common-kafka (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/common-kafka/common-kafka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/common-kafka/common-kafka (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/common-kafka/common-kafka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/common-kafka/common-kafka (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/common-kafka/common-kafka (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/common-kafka/common-kafka (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/common-kafka/common-kafka (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/common-kafka/common-kafka (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/common-kafka/common-kafka (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/common-kafka/common-kafka (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/common-kafka/common-kafka (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/common-kafka/common-kafka (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/common-kafka/common-kafka (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/ecommerce.iml" filepath="$PROJECT_DIR$/video0/ecommerce/ecommerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/ecommerce (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/ecommerce (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/ecommerce (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/ecommerce (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/ecommerce (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/ecommerce (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/ecommerce (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/ecommerce (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/ecommerce (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/ecommerce (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/ecommerce (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/ecommerce (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/ecommerce (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/ecommerce (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kafka-cluster-de-brokers-e-microservicos-master.iml" filepath="$PROJECT_DIR$/.idea/kafka-cluster-de-brokers-e-microservicos-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/service-email/service-email.iml" filepath="$PROJECT_DIR$/video0/ecommerce/service-email/service-email.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/service-email/service-email (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/service-email/service-email (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/service-email/service-email (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/service-email/service-email (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/service-email/service-email (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/service-email/service-email (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-email/service-email (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-email/service-email (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-email/service-email (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-email/service-email (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-email/service-email (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-email/service-email (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-email/service-email (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-email/service-email (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/service-fraud-detector/service-fraud-detector.iml" filepath="$PROJECT_DIR$/video0/ecommerce/service-fraud-detector/service-fraud-detector.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/service-fraud-detector/service-fraud-detector (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/service-fraud-detector/service-fraud-detector (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/service-fraud-detector/service-fraud-detector (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/service-fraud-detector/service-fraud-detector (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/service-fraud-detector/service-fraud-detector (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/service-fraud-detector/service-fraud-detector (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-fraud-detector/service-fraud-detector (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-fraud-detector/service-fraud-detector (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-fraud-detector/service-fraud-detector (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-fraud-detector/service-fraud-detector (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-fraud-detector/service-fraud-detector (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-fraud-detector/service-fraud-detector (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-fraud-detector/service-fraud-detector (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-fraud-detector/service-fraud-detector (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-http-ecommerce/service-http-ecommerce.iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-http-ecommerce/service-http-ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-http-ecommerce/service-http-ecommerce (1).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-http-ecommerce/service-http-ecommerce (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-http-ecommerce/service-http-ecommerce (2).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-http-ecommerce/service-http-ecommerce (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/service-log/service-log.iml" filepath="$PROJECT_DIR$/video0/ecommerce/service-log/service-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/service-log/service-log (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/service-log/service-log (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/service-log/service-log (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/service-log/service-log (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/service-log/service-log (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/service-log/service-log (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-log/service-log (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-log/service-log (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-log/service-log (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-log/service-log (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-log/service-log (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-log/service-log (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-log/service-log (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-log/service-log (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/video0/ecommerce/service-new-order/service-new-order.iml" filepath="$PROJECT_DIR$/video0/ecommerce/service-new-order/service-new-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/video1.2/ecommerce/service-new-order/service-new-order (1).iml" filepath="$PROJECT_DIR$/video1.2/ecommerce/service-new-order/service-new-order (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/service-new-order/service-new-order (2).iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/service-new-order/service-new-order (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/service-new-order/service-new-order (3).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/service-new-order/service-new-order (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-new-order/service-new-order (4).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-new-order/service-new-order (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-new-order/service-new-order (5).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-new-order/service-new-order (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-new-order/service-new-order (6).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-new-order/service-new-order (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-new-order/service-new-order (7).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-new-order/service-new-order (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video1.3/ecommerce/service-users/service-users.iml" filepath="$PROJECT_DIR$/video1.3/ecommerce/service-users/service-users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.1/ecommerce/service-users/service-users (1).iml" filepath="$PROJECT_DIR$/video2.1/ecommerce/service-users/service-users (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-users/service-users (2).iml" filepath="$PROJECT_DIR$/video2.2/projeto-atual/ecommerce/service-users/service-users (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.1/ecommerce/service-users/service-users (3).iml" filepath="$PROJECT_DIR$/video3.1/ecommerce/service-users/service-users (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video3.2/ecommerce/service-users/service-users (4).iml" filepath="$PROJECT_DIR$/video3.2/ecommerce/service-users/service-users (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video4.1/ecommerce/service-users/service-users (5).iml" filepath="$PROJECT_DIR$/video4.1/ecommerce/service-users/service-users (5).iml" />
     </modules>
   </component>
 </project>
