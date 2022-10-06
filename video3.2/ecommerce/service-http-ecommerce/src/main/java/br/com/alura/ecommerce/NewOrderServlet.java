@@ -8,7 +8,11 @@ import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.UUID;
 import java.util.concurrent.ExecutionException;
-
+/*
+ * como enviar mensagens a partir do servidor http
+ * vantagem de um fast delegate
+ * usar um servidor http embarcado
+ * */
 public class NewOrderServlet extends HttpServlet {
 
     private final KafkaDispatcher<Order> orderDispatcher = new KafkaDispatcher<>();

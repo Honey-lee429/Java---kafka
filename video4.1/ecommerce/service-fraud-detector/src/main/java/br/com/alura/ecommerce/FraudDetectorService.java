@@ -10,11 +10,7 @@ public class FraudDetectorService {
 
     public static void main(String[] args) {
         var fraudService = new FraudDetectorService();
-        try (var service = new KafkaService<>(FraudDetectorService.class.getSimpleName(),
-                "ECOMMERCE_NEW_ORDER",
-                fraudService::parse,
-                Order.class,
-                Map.of())) {
+        try (var service = new KafkaService<>(FraudDetectorService.class.getSimpleName(), "ECOMMERCE_NEW_ORDER", fraudService::parse, Order.class, Map.of())) {
             service.run();
         }
     }
@@ -34,8 +30,9 @@ public class FraudDetectorService {
             // ignoring
             e.printStackTrace();
         }
+
         var order = record.value();
-        if(isFraud(order)) {
+        if (isFraud(order)) {
             // pretending that the fraud happens when the amount is >= 4500
             System.out.println("Order is a fraud!!!!!" + order);
             orderDispatcher.send("ECOMMERCE_ORDER_REJECTED", order.getEmail(), order);
