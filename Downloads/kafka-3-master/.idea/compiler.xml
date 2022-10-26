@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-users (5)" />
+        <module name="common-kafka (7)" />
+        <module name="service-reading-report" />
+        <module name="service-http-ecommerce (3)" />
+        <module name="service-email (1)" />
+        <module name="service-new-order (1)" />
+        <module name="service-log (1)" />
+        <module name="service-fraud-detector (3)" />
+        <module name="service-new-order (9)" />
+        <module name="service-new-order (12)" />
+        <module name="service-log (9)" />
+        <module name="service-reading-report (6)" />
+        <module name="common-kafka (8)" />
+        <module name="service-users (6)" />
+        <module name="service-http-ecommerce (2)" />
+        <module name="service-http-ecommerce (10)" />
+        <module name="service-log (2)" />
+        <module name="service-new-order (11)" />
+        <module name="service-email (9)" />
+        <module name="service-fraud-detector (4)" />
+        <module name="service-new-order (8)" />
+        <module name="service-fraud-detector (12)" />
+        <module name="service-reading-report (5)" />
+        <module name="common-kafka (9)" />
+        <module name="service-users (11)" />
+        <module name="service-users (7)" />
+        <module name="service-email (3)" />
+        <module name="service-fraud-detector" />
+        <module name="service-email (10)" />
+        <module name="service-fraud-detector (5)" />
+        <module name="service-new-order (10)" />
+        <module name="service-http-ecommerce (5)" />
+        <module name="service-new-order (7)" />
+        <module name="service-fraud-detector (11)" />
+        <module name="service-log (7)" />
+        <module name="service-reading-report (4)" />
+        <module name="service-users (12)" />
+        <module name="service-users (8)" />
+        <module name="service-email (2)" />
+        <module name="service-http-ecommerce (4)" />
+        <module name="service-email (11)" />
+        <module name="service-fraud-detector (6)" />
+        <module name="common-kafka" />
+        <module name="service-new-order" />
+        <module name="common-kafka (1)" />
+        <module name="service-fraud-detector (10)" />
+        <module name="service-reading-report (3)" />
+        <module name="service-new-order (6)" />
+        <module name="service-log (8)" />
+        <module name="service-users (9)" />
+        <module name="service-reading-report (11)" />
+        <module name="service-email (5)" />
+        <module name="common-kafka (10)" />
+        <module name="service-email (12)" />
+        <module name="service-log (12)" />
+        <module name="service-log (5)" />
+        <module name="service-fraud-detector (7)" />
+        <module name="service-email (6)" />
+        <module name="service-http-ecommerce (7)" />
+        <module name="service-reading-report (2)" />
+        <module name="service-users (1)" />
+        <module name="common-kafka (2)" />
+        <module name="service-new-order (5)" />
+        <module name="service-users (2)" />
+        <module name="service-users (10)" />
+        <module name="service-reading-report (10)" />
+        <module name="service-email (4)" />
+        <module name="service-fraud-detector (9)" />
+        <module name="service-log (11)" />
+        <module name="service-email" />
+        <module name="common-kafka (11)" />
+        <module name="service-reading-report (9)" />
+        <module name="service-fraud-detector (8)" />
+        <module name="service-http-ecommerce (6)" />
+        <module name="service-reading-report (1)" />
+        <module name="service-new-order (4)" />
+        <module name="service-log (6)" />
+        <module name="common-kafka (3)" />
+        <module name="service-users (3)" />
+        <module name="service-http-ecommerce (1)" />
+        <module name="service-log (10)" />
+        <module name="service-http-ecommerce (11)" />
+        <module name="common-kafka (12)" />
+        <module name="service-log (3)" />
+        <module name="service-http-ecommerce (9)" />
+        <module name="service-log" />
+        <module name="service-reading-report (8)" />
+        <module name="service-fraud-detector (1)" />
+        <module name="service-email (8)" />
+        <module name="service-new-order (3)" />
+        <module name="common-kafka (4)" />
+        <module name="service-http-ecommerce" />
+        <module name="common-kafka (6)" />
+        <module name="service-users (4)" />
+        <module name="service-http-ecommerce (12)" />
+        <module name="service-reading-report (7)" />
+        <module name="service-new-order (2)" />
+        <module name="service-log (4)" />
+        <module name="service-fraud-detector (2)" />
+        <module name="service-email (7)" />
+        <module name="service-http-ecommerce (8)" />
+        <module name="common-kafka (5)" />
+        <module name="service-users" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-kafka" target="12" />
+      <module name="common-kafka (1)" target="12" />
+      <module name="common-kafka (10)" target="12" />
+      <module name="common-kafka (11)" target="12" />
+      <module name="common-kafka (12)" target="12" />
+      <module name="common-kafka (2)" target="12" />
+      <module name="common-kafka (3)" target="12" />
+      <module name="common-kafka (4)" target="12" />
+      <module name="common-kafka (5)" target="12" />
+      <module name="common-kafka (6)" target="12" />
+      <module name="common-kafka (7)" target="12" />
+      <module name="common-kafka (8)" target="12" />
+      <module name="common-kafka (9)" target="12" />
+      <module name="ecommerce" target="12" />
+      <module name="ecommerce (1)" target="12" />
+      <module name="ecommerce (10)" target="12" />
+      <module name="ecommerce (11)" target="12" />
+      <module name="ecommerce (12)" target="12" />
+      <module name="ecommerce (2)" target="12" />
+      <module name="ecommerce (3)" target="12" />
+      <module name="ecommerce (4)" target="12" />
+      <module name="ecommerce (5)" target="12" />
+      <module name="ecommerce (6)" target="12" />
+      <module name="ecommerce (7)" target="12" />
+      <module name="ecommerce (8)" target="12" />
+      <module name="ecommerce (9)" target="12" />
+      <module name="service-email" target="12" />
+      <module name="service-email (1)" target="12" />
+      <module name="service-email (10)" target="12" />
+      <module name="service-email (11)" target="12" />
+      <module name="service-email (12)" target="12" />
+      <module name="service-email (2)" target="12" />
+      <module name="service-email (3)" target="12" />
+      <module name="service-email (4)" target="12" />
+      <module name="service-email (5)" target="12" />
+      <module name="service-email (6)" target="12" />
+      <module name="service-email (7)" target="12" />
+      <module name="service-email (8)" target="12" />
+      <module name="service-email (9)" target="12" />
+      <module name="service-fraud-detector" target="12" />
+      <module name="service-fraud-detector (1)" target="12" />
+      <module name="service-fraud-detector (10)" target="12" />
+      <module name="service-fraud-detector (11)" target="12" />
+      <module name="service-fraud-detector (12)" target="12" />
+      <module name="service-fraud-detector (2)" target="12" />
+      <module name="service-fraud-detector (3)" target="12" />
+      <module name="service-fraud-detector (4)" target="12" />
+      <module name="service-fraud-detector (5)" target="12" />
+      <module name="service-fraud-detector (6)" target="12" />
+      <module name="service-fraud-detector (7)" target="12" />
+      <module name="service-fraud-detector (8)" target="12" />
+      <module name="service-fraud-detector (9)" target="12" />
+      <module name="service-http-ecommerce" target="12" />
+      <module name="service-http-ecommerce (1)" target="12" />
+      <module name="service-http-ecommerce (10)" target="12" />
+      <module name="service-http-ecommerce (11)" target="12" />
+      <module name="service-http-ecommerce (12)" target="12" />
+      <module name="service-http-ecommerce (2)" target="12" />
+      <module name="service-http-ecommerce (3)" target="12" />
+      <module name="service-http-ecommerce (4)" target="12" />
+      <module name="service-http-ecommerce (5)" target="12" />
+      <module name="service-http-ecommerce (6)" target="12" />
+      <module name="service-http-ecommerce (7)" target="12" />
+      <module name="service-http-ecommerce (8)" target="12" />
+      <module name="service-http-ecommerce (9)" target="12" />
+      <module name="service-log" target="12" />
+      <module name="service-log (1)" target="12" />
+      <module name="service-log (10)" target="12" />
+      <module name="service-log (11)" target="12" />
+      <module name="service-log (12)" target="12" />
+      <module name="service-log (2)" target="12" />
+      <module name="service-log (3)" target="12" />
+      <module name="service-log (4)" target="12" />
+      <module name="service-log (5)" target="12" />
+      <module name="service-log (6)" target="12" />
+      <module name="service-log (7)" target="12" />
+      <module name="service-log (8)" target="12" />
+      <module name="service-log (9)" target="12" />
+      <module name="service-new-order" target="12" />
+      <module name="service-new-order (1)" target="12" />
+      <module name="service-new-order (10)" target="12" />
+      <module name="service-new-order (11)" target="12" />
+      <module name="service-new-order (12)" target="12" />
+      <module name="service-new-order (2)" target="12" />
+      <module name="service-new-order (3)" target="12" />
+      <module name="service-new-order (4)" target="12" />
+      <module name="service-new-order (5)" target="12" />
+      <module name="service-new-order (6)" target="12" />
+      <module name="service-new-order (7)" target="12" />
+      <module name="service-new-order (8)" target="12" />
+      <module name="service-new-order (9)" target="12" />
+      <module name="service-reading-report" target="12" />
+      <module name="service-reading-report (1)" target="12" />
+      <module name="service-reading-report (10)" target="12" />
+      <module name="service-reading-report (11)" target="12" />
+      <module name="service-reading-report (2)" target="12" />
+      <module name="service-reading-report (3)" target="12" />
+      <module name="service-reading-report (4)" target="12" />
+      <module name="service-reading-report (5)" target="12" />
+      <module name="service-reading-report (6)" target="12" />
+      <module name="service-reading-report (7)" target="12" />
+      <module name="service-reading-report (8)" target="12" />
+      <module name="service-reading-report (9)" target="12" />
+      <module name="service-users" target="12" />
+      <module name="service-users (1)" target="12" />
+      <module name="service-users (10)" target="12" />
+      <module name="service-users (11)" target="12" />
+      <module name="service-users (12)" target="12" />
+      <module name="service-users (2)" target="12" />
+      <module name="service-users (3)" target="12" />
+      <module name="service-users (4)" target="12" />
+      <module name="service-users (5)" target="12" />
+      <module name="service-users (6)" target="12" />
+      <module name="service-users (7)" target="12" />
+      <module name="service-users (8)" target="12" />
+      <module name="service-users (9)" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
